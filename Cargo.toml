@@ -9,7 +9,7 @@ edition = "2021"
 # This is the development version, for the stable release refer
 # to crates.io
 ethers-flashbots = { git = "https://github.com/onbjerg/ethers-flashbots" }
-# Error handling
+# Error handling and logging
 thiserror = { version = "1.0.37", default-features = false }
 
 # Serialization/deserialization
